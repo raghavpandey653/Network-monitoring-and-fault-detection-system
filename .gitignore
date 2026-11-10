@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+network_monitor.db
+.venv/
+venv/
+.env
