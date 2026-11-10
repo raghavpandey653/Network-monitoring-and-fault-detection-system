@@ -43,3 +43,14 @@ A Python-based network monitoring application that checks the availability and p
 - database.py – Database setup
 - requirements.txt – Project dependencies
 - .gitignore – Files excluded from Git
+
+  ## Dashboard Screenshots
+
+### Main Dashboard
+![Dashboard](screenshots/Dashboard.png)
+
+### Monitoring History
+![Monitoring History](screenshots/Monitoring%20history.png)
+
+### Network Charts
+![Network Charts](screenshots/Network%20chart.png)
